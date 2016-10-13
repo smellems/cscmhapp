@@ -17,11 +17,11 @@ wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licenc
 <!--[if lt IE 9]>
 <link href="./wet-boew/assets/favicon.ico" rel="shortcut icon" />
 <link rel="stylesheet" href="./wet-boew/css/ie8-theme.min.css" />
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="./includes/jquery/1.11.1/jquery.min.js"></script>
 <script src="../wet-boew/js/ie8-wet-boew.min.js"></script>
 <![endif]-->
 <noscript><link rel="stylesheet" href="../wet-boew/css/noscript.min.css" /></noscript>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+<script src="./includes/jquery/2.1.4/jquery.min.js"></script>
 </head>
 <body vocab="http://schema.org/" typeof="WebPage">
 <ul id="wb-tphp">
